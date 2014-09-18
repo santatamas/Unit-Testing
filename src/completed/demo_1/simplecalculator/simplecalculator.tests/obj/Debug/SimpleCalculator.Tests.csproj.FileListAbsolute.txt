@@ -1,0 +1,9 @@
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator.Tests\bin\Debug\SimpleCalculator.Tests.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator.Tests\bin\Debug\SimpleCalculator.Tests.pdb
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator.Tests\obj\Debug\SimpleCalculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator.Tests\obj\Debug\SimpleCalculator.Tests.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator.Tests\obj\Debug\SimpleCalculator.Tests.pdb
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator.Tests\bin\Debug\SimpleCalculator.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator.Tests\bin\Debug\SimpleCalculator.pdb

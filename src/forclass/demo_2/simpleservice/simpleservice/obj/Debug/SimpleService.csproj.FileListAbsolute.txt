@@ -1,0 +1,10 @@
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleService\bin\Debug\SimpleService.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleService\bin\Debug\SimpleService.pdb
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleService\obj\Debug\SimpleService.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleService\obj\Debug\SimpleService.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleService\obj\Debug\SimpleService.pdb
+C:\Users\tamas_santa\Documents\GitHub\unittesting\src\forclass\demo_2\simpleservice\SimpleService\bin\Debug\SimpleService.dll
+C:\Users\tamas_santa\Documents\GitHub\unittesting\src\forclass\demo_2\simpleservice\SimpleService\bin\Debug\SimpleService.pdb
+C:\Users\tamas_santa\Documents\GitHub\unittesting\src\forclass\demo_2\simpleservice\SimpleService\obj\Debug\SimpleService.csprojResolveAssemblyReference.cache
+C:\Users\tamas_santa\Documents\GitHub\unittesting\src\forclass\demo_2\simpleservice\SimpleService\obj\Debug\SimpleService.dll
+C:\Users\tamas_santa\Documents\GitHub\unittesting\src\forclass\demo_2\simpleservice\SimpleService\obj\Debug\SimpleService.pdb

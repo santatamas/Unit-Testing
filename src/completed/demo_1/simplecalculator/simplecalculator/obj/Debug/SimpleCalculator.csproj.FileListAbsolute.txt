@@ -1,0 +1,6 @@
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.dll.config
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll

@@ -1,0 +1,5 @@
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleService\bin\Debug\SimpleService.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleService\bin\Debug\SimpleService.pdb
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleService\obj\Debug\SimpleService.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleService\obj\Debug\SimpleService.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleService\obj\Debug\SimpleService.pdb

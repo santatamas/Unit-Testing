@@ -1,0 +1,11 @@
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleServiceTests\obj\Debug\SimpleServiceTests.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleServiceTests\bin\Debug\SimpleServiceTests.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleServiceTests\bin\Debug\SimpleServiceTests.pdb
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleServiceTests\bin\Debug\Moq.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleServiceTests\bin\Debug\nunit.framework.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleServiceTests\bin\Debug\SimpleService.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleServiceTests\bin\Debug\SimpleService.pdb
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleServiceTests\bin\Debug\Moq.xml
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleServiceTests\bin\Debug\nunit.framework.xml
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleServiceTests\obj\Debug\SimpleServiceTests.dll
+C:\Users\Thomas\Dropbox\egyetem\src\Demo_2\SimpleService\SimpleServiceTests\obj\Debug\SimpleServiceTests.pdb

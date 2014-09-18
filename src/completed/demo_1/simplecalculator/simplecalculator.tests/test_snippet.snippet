@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>test snippet</Title>
+      <Shortcut>ttt</Shortcut>
+      <Description>Code snippet for creating an NUnit unit test in C#</Description>
+      <Author>Tamas Santa - EPAM Systems</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>summary</ID>
+          <ToolTip>Summary</ToolTip>
+          <Default>Summary</Default>
+        </Literal>
+        <Literal>
+          <ID>testedmethod</ID>
+          <ToolTip>Tested Method</ToolTip>
+          <Default>TestedMethod</Default>
+        </Literal>
+        <Literal>
+          <ID>dosomething</ID>
+          <ToolTip>Do something</ToolTip>
+          <Default>DoSomething</Default>
+        </Literal>
+        <Literal>
+          <ID>condition</ID>
+          <ToolTip>Condition</ToolTip>
+          <Default>Condition</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp">
+        <![CDATA[ ///<summary>
+        /// $summary$
+        ///</summary>
+        [Test]
+        public void Test_$testedmethod$_Should_$dosomething$_When_$condition$()
+        {
+            // Arrange
+ 
+            // Act
+ 
+            // Assert
+        }
+        $end$]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
