@@ -1,7 +1,7 @@
-A seleniumos hazik javitasa meg folyamatban (ezt az infot kaptam).
-Amint megkapom az eredmenyeket ide fogom feltenni.
+A vegleges feleves jegyeket megtalaljatok a  testauto_2015.png fajlban.
+Elvileg van lehetoseg a vizsgaidoszakban javitani a jegyen, de errol nincsenek bovebb informacioim.
 
-Koszi a turelmet!
+Koszonom mindenkinek a reszvetelt, es sikeres vizsgaidoszakot Nektek!
 
 Udv,
 T
